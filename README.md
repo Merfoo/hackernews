@@ -1,6 +1,6 @@
 # hackernews
 
-> A Vue.js project
+> A Hackernews clone written in Vue.js using GraphQL with Vue-Apollo following [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/).
 
 ## Build Setup
 
