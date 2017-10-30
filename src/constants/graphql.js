@@ -12,7 +12,6 @@ export const ALL_LINKS_QUERY = gql`
 `
 
 export const CREATE_LINK_MUTATION = gql`
-  # 2
   mutation CreateLinkMutation($description: String!, $url: String!) {
     createLink(
       description: $description,
